@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Prathamesh Dhumal — Frontend Developer</title>
+<desc id="desc">An original editorial banner with a midnight blue background, subtle technical grid and warm brass highlights. Building in public.</desc>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#35445A" stroke-width="1"/></pattern></defs>
+<rect width="1200" height="300" fill="#131E2C"/>
+<rect width="1200" height="300" fill="url(#grid)" opacity=".44"/>
+<path d="M32 32H1168V268H32Z" fill="none" stroke="#768599" stroke-width="1" opacity=".5"/>
+<path d="M50 50h28M50 50v28M1150 50h-28M1150 50v28M50 250h28M50 250v-28M1150 250h-28M1150 250v-28" fill="none" stroke="#D5B77A" stroke-width="2"/>
+<text x="80" y="93" fill="#D5B77A" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="4">FRONTEND / BUILDING IN PUBLIC</text>
+<text x="76" y="169" fill="#F8F5EB" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="54">PRATHAMESH</text>
+<text x="76" y="225" fill="#F8F5EB" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="54">DHUMAL<tspan fill="#D5B77A">.</tspan></text>
+<path d="M824 81h284M824 99h174M824 117h224" fill="none" stroke="#D5B77A" stroke-width="2" opacity=".8"/>
+<text x="824" y="171" fill="#F8F5EB" font-family="Arial,Helvetica,sans-serif" font-size="22" letter-spacing="1">DESIGN. DEVELOP.</text>
+<text x="824" y="202" fill="#F8F5EB" font-family="Arial,Helvetica,sans-serif" font-size="22" letter-spacing="1">TEST. SHIP.</text>
+<text x="824" y="241" fill="#AFC0D0" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="2">MAHARASHTRA · INDIA</text>
+</svg>
