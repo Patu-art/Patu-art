@@ -8,6 +8,8 @@ I build responsive, content-first websites with HTML, CSS and JavaScript. I'm cu
 
 [**Portfolio ↗**](https://patu-art.github.io/Portfolio/) &nbsp;·&nbsp; [**Projects ↗**](https://patu-art.github.io/Portfolio/projects.html) &nbsp;·&nbsp; [**100-Day Challenge ↗**](https://patu-art.github.io/Portfolio/challenge.html) &nbsp;·&nbsp; [**Contact ↗**](https://patu-art.github.io/Portfolio/contact.html)
 
+**Project snapshot · 23 September 2026:** 15 public challenge repositories · a personal portfolio · an ongoing UI experiment. [See the full project directory](PROJECT_INDEX.md). Counts reflect published repositories, not paid client commissions or individually audited launches.
+
 ---
 
 ### What I work with
