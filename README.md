@@ -26,6 +26,9 @@ I build responsive, content-first websites with HTML, CSS and JavaScript. I'm cu
 
 ### Selected work
 
+[**Browse all 15 challenge repositories and personal code →**](PROJECT_INDEX.md)
+
+
 | Project | What it demonstrates | Links |
 | --- | --- | --- |
 | **Personal portfolio** | Responsive personal site with project data, motion and clear project-status labels | [Live](https://patu-art.github.io/Portfolio/) · [Code](https://github.com/Patu-art/Portfolio) |
